@@ -1,0 +1,11 @@
+AddID,UserID,CategoryID,Title,Description,Price,Status
+101,1,1,Samsung Galaxy S21,"New Samsung Galaxy S21, 128GB, sealed box",799,Active
+102,2,2,Wooden Office Desk,A beautiful wooden desk for your office,150,Inactive
+103,3,3,Harry Potter Book Set,Complete set of hardcover Harry Potter books,120,Active
+104,4,1,Apple iPhone 13,"Brand new iPhone 13, 64GB",999,Active
+105,5,4,Lego Set,Lego Creator 3-in-1 Set,59,Inactive
+106,6,5,Winter Jacket,"Warm jacket for winter, size M",89,Active
+107,7,6,Soccer Ball,Official size soccer ball,30,Active
+108,8,7,Gold Necklace,14K Gold Necklace,500,Sold
+109,9,8,Organic Apple Juice,Freshly squeezed organic apple juice,10,Active
+110,10,9,Car Battery,Car battery 12V,120,Inactive
